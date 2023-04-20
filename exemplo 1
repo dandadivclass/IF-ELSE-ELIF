@@ -9,4 +9,4 @@ elif pontuacao >=500:
 elif pontuacao >=200:
      print("O cliente tem direito a receber mais 500mb na sua franquia de internet!")
 else:
-     print("O cl
+     print("O cliente não receberá bônus.")
